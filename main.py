@@ -1,3 +1,4 @@
+pip install --upgrade tensorflow
 #streamlit library
 import streamlit as st
 import streamlit.components.v1 as components
